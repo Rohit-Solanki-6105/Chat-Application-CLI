@@ -3,8 +3,8 @@
 ### We can chat online/over internet safely without records
 >Note: If the server wants to save records it can save
 
-##### The server.py should run only on on device or only one time to connect multiple clients
-##### The Client.py is to run for chatting with other clients . It connects to server.py
+#### The server.py should run only on on device or only one time to connect multiple clients
+#### The Client.py is to run for chatting with other clients . It connects to server.py
 
 #
 
