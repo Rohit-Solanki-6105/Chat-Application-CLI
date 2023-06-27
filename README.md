@@ -20,3 +20,5 @@ port = 7976
 ```python
 client.connect(('127.0.0.1', 7976)) 
 ```
+
+<img src="screenshot.png">
