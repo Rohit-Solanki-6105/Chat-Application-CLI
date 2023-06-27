@@ -22,5 +22,7 @@ client.connect(('127.0.0.1', 7976))
 ```
 #
 
+>It works on every os which have installed python
+
 ### screenshot of it
 <img src="screenshot.png">
