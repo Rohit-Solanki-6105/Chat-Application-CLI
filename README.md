@@ -11,5 +11,5 @@ port = 7976
 
 >on client: we must to use the same host domain/ip and port no. as given in server
 ```python
-
+client.connect(('127.0.0.1', 7976)) 
 ```
