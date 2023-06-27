@@ -21,4 +21,4 @@ port = 7976
 client.connect(('127.0.0.1', 7976)) 
 ```
 
-<img src="screenshot.png">
+<img src="screenshot.png" height="50vh">
